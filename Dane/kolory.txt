@@ -1,0 +1,14 @@
+oczy            wlosy              licznosci
+niebieskie   jasny_blad       1768  
+niebieskie   ciemny_blad    807  
+niebieskie   czarne              189
+niebieskie   rude                  47
+szare           jasny_blad        946 
+szare           ciemny_blad     1387 
+szare           czarne               746
+szare           rude                   53
+piwne         jasny_blad         115
+piwne         ciemny_blad      438
+piwne         czarne                288
+piwne         rude                   16
+

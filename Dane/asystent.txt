@@ -1,0 +1,16 @@
+asystent  ocena  liczba
+A1  bnzd  17
+A1  nzd   25
+A1  mrn   21
+A1  db     9
+A1  bdb   10
+A2  bnzd  11
+A2  nzd   29
+A2  mrn   18
+A2  db    12
+A2  bdb    9
+A3  bnzd   6
+A3  nzd    7
+A3  mrn   11
+A3  db    39
+A3  bdb   21

@@ -1,0 +1,33 @@
+Keywords:
+    dice 
+Categories:
+    generalized linear models;
+    popular 
+Description:
+
+    The data come from an experiment to determine the probability of rolling a six from non-cubic dice. 
+    The dice have two faces of size 1 × 1 (both marked with a six) and four faces of 1 × r. That is, 
+    the die is of size 1 × 1 × r, as in the image below.
+
+    Various size dice were constructed from wood and rolled; the number of sixes observed were counted.
+
+    There are 36 observations on four variables.
+
+Variables:
+    r 	The aspect ratio of the die, as explained in the Description above.
+    Rolls 	The number of times each die was rolled.
+    Sixes 	The number of sixes observed.
+    Group 	The group doing the experiment; one of 1, 2, 3, A, D or S. Groups 1, 2 and 3 were school children; 
+		Groups A, D and S were actually individuals in a Honours class
+
+Data Quality:
+    There are no missing values. 
+
+Source:
+
+    The data are reported and used in:
+    Dunn, Peter K. (2003). What happens when a 1×1×r die is rolled? The American Statistician, 57(4), 258–264.
+
+    The data for Groups 1, 2 and 3 were collected by Year 11 and 12 school children at Maths Day 2002 in Toowoomba, Australia. The data for Groups A, D and S were collected by individual Honours students (A, D and S are the initials of their first names).
+Notes:
+    Thanks to Oliver Kinder for constructing the three sets of dice used for the experiment. 

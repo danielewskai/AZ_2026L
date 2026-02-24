@@ -1,0 +1,81 @@
+weight;city;age
+250;Dallas;old
+255;Dallas;old
+255;Dallas;old
+242;Dallas;old
+250;Dallas;old
+260;Dallas;old
+245;Dallas;old
+252;Dallas;old
+256;Dallas;young
+251;Dallas;young
+258;Dallas;young
+248;Dallas;young
+228;Dallas;young
+225;Dallas;young
+223;Dallas;young
+230;Dallas;young
+260;Green Bay;old
+271;Green Bay;old
+258;Green Bay;old
+263;Green Bay;old
+267;Green Bay;old
+254;Green Bay;old
+255;Green Bay;old
+248;Green Bay;old
+240;Green Bay;young
+254;Green Bay;young
+265;Green Bay;young
+266;Green Bay;young
+230;Green Bay;young
+232;Green Bay;young
+242;Green Bay;young
+231;Green Bay;young
+270;Denver;old
+250;Denver;old
+262;Denver;old
+273;Denver;old
+257;Denver;old
+264;Denver;old
+233;Denver;old
+268;Denver;old
+252;Denver;young
+248;Denver;young
+255;Denver;young
+252;Denver;young
+256;Denver;young
+235;Denver;young
+232;Denver;young
+241;Denver;young
+260;Miami;old
+255;Miami;old
+241;Miami;old
+257;Miami;old
+250;Miami;old
+263;Miami;old
+247;Miami;old
+253;Miami;old
+252;Miami;young
+256;Miami;young
+260;Miami;young
+228;Miami;young
+236;Miami;young
+225;Miami;young
+230;Miami;young
+232;Miami;young
+242;San Francisco;old
+246;San Francisco;old
+253;San Francisco;old
+249;San Francisco;old
+223;San Francisco;old
+243;San Francisco;old
+228;San Francisco;old
+255;San Francisco;old
+228;San Francisco;young
+249;San Francisco;young
+237;San Francisco;young
+247;San Francisco;young
+236;San Francisco;young
+249;San Francisco;young
+250;San Francisco;young
+232;San Francisco;young
