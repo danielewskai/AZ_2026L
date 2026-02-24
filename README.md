@@ -5,7 +5,7 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 ## Rozpiska terminów i tematów zajęć
 |Lp.| Data | środa 16:15|
 | ------------- | ------------- | ------------- |
-| 1. | 25-02-2025 | Wykresy kwantylowe, rozkład spektralny i SVD |
+| 1. | 25-02-2025 | Test permutacyjny, rozkład spektralny i SVD |
 | 2. | 4-03-2025 |  |
 | 3. | 11-03-2025 |  |
 | 4. | 18-03-2025 |  |
