@@ -12,14 +12,14 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 5. | 25-03-2025 | Testowanie w modelu regresji liniowej / **Kartkówka** |
 | 6. | 1-04-2025 |  |
 | 7. | 8-04-2025 |  |
-| 8. | 15-04-2025 |  |
+| 8. | 15-04-2025 | **Kolokiwium 1** |
 | 9. | 22-04-2025 |  |
 | 10. | 29-04-2025 |  |
 | 11. | 6-05-2025 |  |
 | 12. | 13-05-2025 |  |
 | 13. | 20-05-2025 |  |
 | 14. | 27-05-2025 |  |
-| 15. | 10-06-2025 | Kolokwium 2|
+| 15. | 10-06-2025 | **Kolokwium 2** |
 
 ## Kartkówki
 W trakcie semestru zostaną przeprowadzone **4 kartkówki**, z których każda będzie oceniana na **5 punktów** - łącznie do zdobycia **20 punktów**.
