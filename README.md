@@ -8,8 +8,8 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 1. | 25-02-2025 | Test permutacyjny, rozkład spektralny i SVD |
 | 2. | 4-03-2025 | Metoda MNK |
 | 3. | 11-03-2025 | Metoda MNK / Rezydua i ich własności |
-| 4. | 18-03-2025 |  |
-| 5. | 25-03-2025 | Kartkówka |
+| 4. | 18-03-2025 | Rezydua i ich własności / Testowanie w modelu regresji liniowej |
+| 5. | 25-03-2025 | Testowanie w modelu regresji liniowej / Kartkówka |
 | 6. | 1-04-2025 |  |
 | 7. | 8-04-2025 |  |
 | 8. | 15-04-2025 |  |
