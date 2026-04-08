@@ -11,14 +11,14 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 4. | 18-03-2025 | Rezydua i ich własności / Testowanie w modelu regresji liniowej |
 | 5. | 25-03-2025 | Testowanie w modelu regresji liniowej / **Kartkówka** |
 | 6. | 1-04-2025 |  Diagnostyka modelu regresji liniowej |
-| 7. | 8-04-2025 |  Diagnostyka modelu regresji liniowej / **Kartkówka** |
-| 8. | 15-04-2025 |  |
+| 7. | 8-04-2025 |  Diagnostyka modelu regresji liniowej |
+| 8. | 15-04-2025 | **Kartkówka** / |
 | 9. | 22-04-2025 | **Kolokiwium 1** |
 | 10. | 29-04-2025 |  |
-| 11. | 6-05-2025 |  |
+| 11. | 6-05-2025 | **Kartkówka** |
 | 12. | 13-05-2025 |  |
 | 13. | 20-05-2025 |  |
-| 14. | 27-05-2025 |  |
+| 14. | 27-05-2025 | **Kartkówka** |
 | 15. | 10-06-2025 | **Kolokwium 2** |
 
 ## Kartkówki
