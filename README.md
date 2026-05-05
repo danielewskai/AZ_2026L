@@ -14,8 +14,8 @@ Materiały z zajęć Analiza zależności prowadzonych na Wydziale Matematyki i 
 | 7. | 8-04-2025 |  Diagnostyka modelu regresji liniowej |
 | 8. | 15-04-2025 | **Kartkówka** / Współliniowość, selekcja zmiennych |
 | 9. | 22-04-2025 | **Kolokiwium 1** |
-| 10. | 29-04-2025 | Współliniowość, selekcja zmiennych / Ogólna hipoteza liniowa|
-| 11. | 6-05-2025 | **Kartkówka** / Ogólna hipoteza liniowa / Regresja grzbietowa i lasso |
+| 10. | 29-04-2025 | Współliniowość, selekcja zmiennych |
+| 11. | 6-05-2025 | **Kartkówka** / Ogólna hipoteza liniowa |
 | 12. | 13-05-2025 | Regresja grzbietowa i lasso |
 | 13. | 20-05-2025 | 	PCA, PLSR |
 | 14. | 27-05-2025 | **Kartkówka** / Regresja logistyczna |
